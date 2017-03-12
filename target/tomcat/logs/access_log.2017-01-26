@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [26/Jan/2017:15:54:45 +0000] "GET /MyDistance HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [26/Jan/2017:15:54:46 +0000] "GET /MyDistance/ HTTP/1.1" 200 1379 http-bio-8080-exec-7 510
+0:0:0:0:0:0:0:1 - - [26/Jan/2017:15:55:51 +0000] "GET /MyDistance/ HTTP/1.1" 200 1379 http-bio-8080-exec-9 3
+0:0:0:0:0:0:0:1 - - [26/Jan/2017:15:57:04 +0000] "GET /MyDistance/ HTTP/1.1" 200 1379 http-bio-8080-exec-1 50
